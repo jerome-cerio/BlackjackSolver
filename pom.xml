@@ -14,7 +14,7 @@
             <artifactId>guava</artifactId>
             <version>18.0</version>
         </dependency>
-    </dependencies>
+    </dependencie>
 
     <properties>
         <maven.compiler.source>19</maven.compiler.source>
